@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = warin.pierre@gmail.com
+	name = Pierre Warin
